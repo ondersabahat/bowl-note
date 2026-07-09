@@ -1,2 +1,2 @@
-# bowl-note
-Daily Meal &amp; Macro Tracker App
+# Bowl Note
+## Daily Meal &amp; Macro Tracker App
